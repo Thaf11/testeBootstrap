@@ -1,0 +1,42 @@
+
+.cores{
+    background-color: rgba(8, 0, 80, 0.822);
+    font-size: 20px;
+    
+}
+
+.olamundo{
+    background-color: rgba(206, 206, 206, 0.39);
+    padding: 120px 130px;
+    height: 650px;
+
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}   
+
+.alinha{
+    text-align: justify;
+}
+
+.cor{
+    background-color: rgba(255, 255, 255, 0.438);
+}
+
+.titulo{
+
+    font-size: 80px;
+}
+
+.fonte{
+    font-size: 18px;
+}
+
+.tamanho{
+    padding: 20px;
+}
+
+
+
